@@ -1,0 +1,14 @@
+C:\Users\bridg\source\repos\VirtualPetApp\bin\Debug\net9.0\VirtualPetApp.exe
+C:\Users\bridg\source\repos\VirtualPetApp\bin\Debug\net9.0\VirtualPetApp.deps.json
+C:\Users\bridg\source\repos\VirtualPetApp\bin\Debug\net9.0\VirtualPetApp.runtimeconfig.json
+C:\Users\bridg\source\repos\VirtualPetApp\bin\Debug\net9.0\VirtualPetApp.dll
+C:\Users\bridg\source\repos\VirtualPetApp\bin\Debug\net9.0\VirtualPetApp.pdb
+C:\Users\bridg\source\repos\VirtualPetApp\obj\Debug\net9.0\VirtualPetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bridg\source\repos\VirtualPetApp\obj\Debug\net9.0\VirtualPetApp.AssemblyInfoInputs.cache
+C:\Users\bridg\source\repos\VirtualPetApp\obj\Debug\net9.0\VirtualPetApp.AssemblyInfo.cs
+C:\Users\bridg\source\repos\VirtualPetApp\obj\Debug\net9.0\VirtualPetApp.csproj.CoreCompileInputs.cache
+C:\Users\bridg\source\repos\VirtualPetApp\obj\Debug\net9.0\VirtualPetApp.dll
+C:\Users\bridg\source\repos\VirtualPetApp\obj\Debug\net9.0\refint\VirtualPetApp.dll
+C:\Users\bridg\source\repos\VirtualPetApp\obj\Debug\net9.0\VirtualPetApp.pdb
+C:\Users\bridg\source\repos\VirtualPetApp\obj\Debug\net9.0\VirtualPetApp.genruntimeconfig.cache
+C:\Users\bridg\source\repos\VirtualPetApp\obj\Debug\net9.0\ref\VirtualPetApp.dll
